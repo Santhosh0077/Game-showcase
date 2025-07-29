@@ -143,6 +143,14 @@ footer strong {
     margin-bottom: 0.5rem;
   }
 
+  .card {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .card-container {
+    flex-direction: column;
+    align-items: center;
+  }
   .card img {
     height: auto;
     aspect-ratio: 16/9;
